@@ -1,5 +1,5 @@
 body {
-  background: url(background.png);
+  background-color: #1c1c1c;
   font-family: "Roboto Condensed", sans-serif;
   margin: 0;
   padding-bottom: 60px;
@@ -40,6 +40,11 @@ button {
 
 button:hover {
   background-color: #474444;
+}
+
+#download {
+  width: 50%;
+  font-size: 18px;
 }
 
 img {
